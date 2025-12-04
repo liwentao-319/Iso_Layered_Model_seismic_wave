@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: LayerModel
-Version: 2.0
-Summary: Calculate layered model ground response
-Author: unknown
-Requires-Dist: numpy
-Requires-Dist: cython
